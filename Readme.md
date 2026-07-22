@@ -1,0 +1,3 @@
+Project of Yt
+
+data modeling: https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUkVSQW42TlptaG5DcnduNXlhVnJoNnxBR3JiS2FuVUcwRW4tSDRZSWJIbEdacnRiZnZwWXAtbG51ZGJpanBPUlJkOEZ4UlBEMUV4RF81X2FmV25zendwV255dzF2V1lXbWNLVlctNXNkT1RYZThhbzVhaXdkSmJfbERp&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc
